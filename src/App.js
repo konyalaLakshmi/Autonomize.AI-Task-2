@@ -38,7 +38,7 @@ class ProductGrid extends Component {
             </button>
           ))}
         </div>
-        {selectedProduct && (
+        {selectedItem && (
           <div className="product-details">
             <h2 className="h2">{selectedItem.title}</h2>
             <img
