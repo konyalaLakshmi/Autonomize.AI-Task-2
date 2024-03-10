@@ -1,4 +1,4 @@
-##Task-2
+# Task-2
 # Product Grid Component
 
 This component displays a grid of products fetched from a fake store API. Users can click on a product to view its details.
@@ -16,6 +16,7 @@ npm start
 ### Dependencies
 
 React: ^16.0.0
+
 React-DOM: ^16.0.0
 
 
